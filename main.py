@@ -1,5 +1,5 @@
 import streamlit as st
 st.title("Streamlit App")
 name=st.text_input("Enter your name")
-if st.button("submit"):
+if st.button("Submit"):
   st.write("Name is {name}")
