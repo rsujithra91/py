@@ -249,4 +249,4 @@ goals = cur.execute(
 ).fetchall()
 ```
 
-So replace **all the existing code in `main.py`** with the code above, save it, and redeploy/re-run your Streamlit a
+
